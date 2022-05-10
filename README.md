@@ -1,6 +1,6 @@
 Full-stack yazılım uzmanı pozisyonuna başvuruları kabul etmek için hazırladığımız MQTT Broker projesinin kaynak kodlarına bu repodan erişebilirsiniz. 
 
-Yazılım şu anda public bir sunucuda koşmakta.
+~~Yazılım şu anda public bir sunucuda koşmakta.~~ (Şu anda aktif değil, fakat aşağıda bahsi geçen ip adresinin bulunması kısmı hala geçerli)
 
 Başvuru yapabilmek için;
 
