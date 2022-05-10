@@ -14,4 +14,3 @@ Phone: {Phone}
 Regards,
 
 Sinan Taviloğlu
-

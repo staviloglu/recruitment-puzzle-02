@@ -23,4 +23,3 @@
         public string TemplatePath { get; set; }
     }
 }
-

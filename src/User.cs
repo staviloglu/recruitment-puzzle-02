@@ -7,4 +7,3 @@
         public bool IsAdmin { get; set; }
     }
 }
-

@@ -8,4 +8,3 @@
         public DateTime LastMessageTime { get; set; }
     }
 }
-
